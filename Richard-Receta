@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="esp">
+<head>
+  <meta charset="UTF-8">
+  <title>Receta de Doner Kebab</title>
+  <meta name="autor" content="Richard Pérez">
+  <meta name="descripción" content="La deliciosa receta de Doner Kebab">
+  <style>
+    body {
+      background-color: rgb(112, 78, 26); /* Cambia el fondo a color negro */
+      color: white; /* Cambia el color del texto a blanco */
+      margin: 0; /* Elimina el margen predeterminado del body */
+      padding: 0; /* Elimina el relleno predeterminado del body */
+      font-family: Arial, sans-serif; /* Establece la fuente del texto */
+    }
+
+    header {
+      background-color: rgb(16, 78, 80); /* Cambia el fondo del encabezado a un tono oscuro */
+      padding: 10px;
+      text-align: center;
+    }
+
+    ul {
+      list-style-type: none; /* Elimina los puntos de la lista */
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 8px; /* Añade espacio entre los elementos de la lista */
+    }
+
+    img {
+      display: block;
+      margin: 70px auto; /* Centra la imagen */
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mi receta favorita</h1>
+    <h3>Doner Kebab</h3>
+  </header>
+  
+  <p><strong>Lista de Ingredientes:</strong></p>
+  <ol>
+    <li>Carne de cordero o pollo, cortada en tiras finas.</li>
+    <li>Pan de pita o tortillas para envolver.</li>
+    <li>Lechuga picada.</li>
+    <li>Tomates en rodajas.</li>
+    <li>Cebolla roja, cortada en aros finos.</li>
+    <li>Salsa de yogur o tahini.</li>
+    <li>Condimentos: comino, pimentón, ajo en polvo, sal y pimienta al gusto.</li>
+  </ol>
+  
+
+  <p><strong>Preparación de Ingredientes:</strong></p>
+  <ol>
+    <li>Marina la carne con los condimentos y déjala reposar durante al menos 30 minutos.</li>
+    <li>Cocina la carne en una sartén hasta que esté bien cocida.</li>
+    <li>Calienta el pan de pita o las tortillas.</li>
+  </ol>
+
+  <h4>Ensamblaje:</h4>
+  <ol>
+    <li>Coloca las tiras de carne cocida en el centro del pan de pita o la tortilla.</li>
+    <li>Añade lechuga, tomate y cebolla al gusto.</li>
+    <li>Vierte la salsa de yogur o tahini sobre la mezcla.</li>
+  </ol>
+
+  <h4>Servir:</h4>
+  <ol>
+    <li>Dobla el pan de pita o la tortilla para formar el doner kebab.</li>
+    <li>Sirve caliente y disfruta.</li>
+  </ol>
+
+  <img src="https://recetasfitness.info/wp-content/uploads/kebab-saludable-fitness-1.jpg" width="500" alt="Imagen de Doner Kebab">
+</body>
+</html>
+
